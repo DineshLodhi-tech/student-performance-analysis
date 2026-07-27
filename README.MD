@@ -1,6 +1,6 @@
 # Student Performance Analysis
 
-## 📌 Objective
+## 📌 Objective:
 
 This project analyzes how study hours and attendance affect student performance.
 
